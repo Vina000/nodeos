@@ -1,0 +1,2 @@
+# nodeos
+Tea testnet 
